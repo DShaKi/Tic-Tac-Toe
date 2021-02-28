@@ -3,4 +3,8 @@ A simple tic Tac Toe game with python (pygame)
 
 Simply enjoy and play :joystick:
 
-Copyright &copy; 2021 by Shaki8591 (Shayan Kermani)
+Totaly written by python :heart:
+
+Ui written by PyGame :snake:
+
+Copyright &copy; 2021 by shaki8591 (Shayan Kermani)
