@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-A simple tic Tac Toe game with python (pygame)
+A simple Tic Tac Toe game with python (pygame)
 
 Simply enjoy and play :joystick:
 
