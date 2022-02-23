@@ -7,4 +7,4 @@ Totaly written by python :heart:
 
 Ui written by PyGame :snake:
 
-Copyright &copy; 2021 by shaki8591 (Shayan Kermani)
+Copyright &copy; 2022 by GShaKi
